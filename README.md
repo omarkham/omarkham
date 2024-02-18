@@ -10,7 +10,7 @@
 </div> 
 </div>
 
-<h3>Languages and Tools</h3>
+<h3>Languages and Tools:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=python,cpp,java,js,html,css,tensorflow,gcp)](https://skillicons.dev)
 
