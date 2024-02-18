@@ -1,11 +1,4 @@
-<div class="typewrite">
-  <h1 class="typewrite__text" data-wait="1000">
-    <span class="typewrite__letter">H</span>
-    <span class="typewrite__letter">i</span> 👋, 
-    <span class="typewrite__letter">I</span>'<span class="typewrite__letter">m</span> 
-    <span class="typewrite__letter">O</span><span class="typewrite__letter">l</span>i<span class="typewrite__letter">v</span>i<span class="typewrite__letter">a</span>.
-  </h1>
-</div>
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&color=000000&lines=+Hi+👋+I'm+Olivia!)](https://git.io/typing-svg)
 
 <h3>Some facts about me!</h3>
 <p>I'm currently:</p>
