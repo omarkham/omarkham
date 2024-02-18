@@ -1,10 +1,10 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&color=000000&lines=+Hi+👋+I'm+Olivia!)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&color=000000&lines=+Hello+👋+I'm+Olivia!)](https://git.io/typing-svg)
 
 <h3>Some facts about me!</h3>
 <p>I'm currently:</p>
  
   - 💻 &nbsp; Machine Learning @ Cohere
-  - 🎨 &nbsp; Computer Vision @ VIP Lab
+  - 🎨 &nbsp; Research @ Vision and Image Processing Lab
   - 🎓 &nbsp; 2nd Year Engineering @ Waterloo
   - 🌱 &nbsp; Learning about Artificial Intelligence
 
