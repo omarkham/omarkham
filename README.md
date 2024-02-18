@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Olivia</h1>
-<h3 align="center">Some facts about me!</h3>
+<h3>Some facts about me!</h3>
 <p>I'm currently:</p>
  
   - 💻 &nbsp; Machine Learning @ Cohere
+  - 🎨 &nbsp; Computer Vision @ Vision and Image Processing Lab
   - 🎓 &nbsp; 2nd Year Engineering @ Waterloo
   - 🌱 &nbsp; Learning about Artificial Intelligence and Computer Vision
 
