@@ -1,4 +1,12 @@
-<h1 align="center">Hi 👋, I'm Olivia</h1>
+<div class="typewrite">
+  <h1 class="typewrite__text" data-wait="1000">
+    <span class="typewrite__letter">H</span>
+    <span class="typewrite__letter">i</span> 👋, 
+    <span class="typewrite__letter">I</span>'<span class="typewrite__letter">m</span> 
+    <span class="typewrite__letter">O</span><span class="typewrite__letter">l</span>i<span class="typewrite__letter">v</span>i<span class="typewrite__letter">a</span>.
+  </h1>
+</div>
+
 <h3>Some facts about me!</h3>
 <p>I'm currently:</p>
  
