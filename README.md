@@ -4,9 +4,9 @@
 <p>I'm currently:</p>
  
   - 💻 &nbsp; Machine Learning @ Cohere
-  - 🎨 &nbsp; Computer Vision @ Vision and Image Processing Lab
+  - 🎨 &nbsp; Computer Vision @ VIP Lab
   - 🎓 &nbsp; 2nd Year Engineering @ Waterloo
-  - 🌱 &nbsp; Learning about Artificial Intelligence and Computer Vision
+  - 🌱 &nbsp; Learning about Artificial Intelligence
 
 </div> 
 </div>
