@@ -5,7 +5,7 @@
  
   - 💻 &nbsp; Machine Learning @ Cohere
   - 🎨 &nbsp; Research @ Vision and Image Processing Lab
-  - 🎓 &nbsp; 2nd Year Engineering @ Waterloo
+  - 🎓 &nbsp; 2nd Year Engineering @ uWaterloo
   - 🌱 &nbsp; Learning about Artificial Intelligence
 
 </div> 
