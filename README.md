@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&color=000000&lines=+Hello+👋+I'm+Olivia!)](https://git.io/typing-svg)
+<h3>Hello!! I'm Olivia 👋</h3>
 
 <h3>Some facts about me!</h3>
 <p>I'm currently:</p>
